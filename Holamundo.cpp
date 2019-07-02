@@ -16,7 +16,7 @@ int main()
     cout << *it;
     cout << endl;
 
-// develop2
+// develop3   nuevo commit 1
 
     for (it1=str.rbegin(); it1!=str.rend(); it1++)
     cout << *it1;
