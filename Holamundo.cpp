@@ -12,14 +12,14 @@ int main()
 
 
 
-    for (it=str.begin(); it!=str.end(); it++)
-    cout << *it;
-    cout << endl;
+    // for (it=str.begin(); it!=str.end(); it++)
+    // cout << *it;
+    // cout << endl;
 
 
-    for (it1=str.rbegin(); it1!=str.rend(); it1++)
-    cout << *it1;
-    cout << endl;
+    // for (it1=str.rbegin(); it1!=str.rend(); it1++)
+    // cout << *it1;
+    // cout << endl;
 
     return 0;
 }
