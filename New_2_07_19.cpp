@@ -1,3 +1,5 @@
+# ZweitesRepository
+#Segundo sin read me :v
 #include <stdio.h>
 #include <cstdlib>
 #include <iostream>
@@ -15,12 +17,4 @@ int main()
     for (it=str.begin(); it!=str.end(); it++)
     cout << *it;
     cout << endl;
-
-// No merge xD
-
-    for (it1=str.rbegin(); it1!=str.rend(); it1++)
-    cout << *it1;
-    cout << endl;
-
-    return 0;
 }
