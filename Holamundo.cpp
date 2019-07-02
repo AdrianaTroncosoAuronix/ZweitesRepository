@@ -12,9 +12,9 @@ int main()
 
 
 
-    for (it=str.begin(); it!=str.end(); it++)
-    cout << *it;
-    cout << endl;
+    // for (it=str.begin(); it!=str.end(); it++)
+    // cout << *it;
+    // cout << endl;
 
 //Hallo
 
