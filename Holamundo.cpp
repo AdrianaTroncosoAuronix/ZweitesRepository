@@ -17,9 +17,9 @@ int main()
     cout << endl;
 
 
-    for (it1=str.rbegin(); it1!=str.rend(); it1++)
-    cout << *it1;
-    cout << endl;
+    // for (it1=str.rbegin(); it1!=str.rend(); it1++)
+    // cout << *it1;
+    // cout << endl;
 
     return 0;
 }
