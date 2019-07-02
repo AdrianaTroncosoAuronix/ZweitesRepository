@@ -12,11 +12,11 @@ int main()
 
 
 
-    // for (it=str.begin(); it!=str.end(); it++)
-    // cout << *it;
-    // cout << endl;
+    for (it=str.begin(); it!=str.end(); it++)
+    cout << *it;
+    cout << endl;
 
-//Hallo
+// Merge with no ff :v
 
     for (it1=str.rbegin(); it1!=str.rend(); it1++)
     cout << *it1;
