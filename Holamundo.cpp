@@ -16,7 +16,7 @@ int main()
     cout << *it;
     cout << endl;
 
-// Merge with no ff :v
+// No merge xD
 
     for (it1=str.rbegin(); it1!=str.rend(); it1++)
     cout << *it1;
